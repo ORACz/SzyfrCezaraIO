@@ -6,6 +6,21 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+//    public class AsciiValue {
+//    public static void main(String[] args) {
+//
+//        char ch = 'a';
+//        int ascii = ch;
+//        // You can also cast char to int
+//        int castAscii = (int) ch;
+//
+//        System.out.println("The ASCII value of " + ch + " is: " + ascii);
+//        System.out.println("The ASCII value of " + ch + " is: " + castAscii);
+//    }
+//}
+// Output : The ASCII value of a is: 97
+//          The ASCII value of a is: 97
+
 public class SzyfrCezaraIO {
     String text;
     String textPoZmianie;
